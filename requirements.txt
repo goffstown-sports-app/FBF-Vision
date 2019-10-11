@@ -1,0 +1,4 @@
+firebase_admin==2.17.0
+opencv_python==4.1.1.26
+numpy==1.16.2
+pytest-emoji==0.2.0
