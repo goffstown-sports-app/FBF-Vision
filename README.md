@@ -4,7 +4,7 @@
 📷 Football Field Vision Program. Automatically gets scores from scoreboard using computer vision with a raspberry pi.
 
 ## Features
-Gets live scores from scoreboard.
+1. Gets live scores from scoreboard.
 
 ## Requirments
 firebase_admin==2.17.0
